@@ -4,5 +4,5 @@ from main import urls as UrlsMain
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^/', include(UrlsMain, namespace="main")),
+    url(r'^', include(UrlsMain, namespace="main")),
 ]
