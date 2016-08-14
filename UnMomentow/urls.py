@@ -1,4 +1,4 @@
-from django.conf.urls import urls, include
+from django.conf.url import urls, include
 from django.contrib import admin
 from main import urls as UrlsMain
 
