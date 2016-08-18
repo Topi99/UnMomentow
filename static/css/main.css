@@ -1,0 +1,22 @@
+.demo-layout-transparent {
+  background: url('../img/justice.jpg') center / cover;
+}
+.red{
+	background-color: #A6192E !important;
+}
+
+.black{
+	background-color: #242121 !important;
+}
+
+.white{
+	background-color: #D6D2B4 !important;
+}
+
+.blue{
+	background-color: #3438A8 !important;
+}
+
+.yellow{
+	background-color: #FFC400 !important;
+}
